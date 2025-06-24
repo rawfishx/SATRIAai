@@ -21,3 +21,4 @@ git clone https://github.com/rawfishx/SATRIAai/
 cd SATRIAai
 bash setup.sh
 ```
+untuk memulai pembicaraan ketik ```satria```
