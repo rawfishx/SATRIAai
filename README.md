@@ -1,0 +1,2 @@
+# SATRIAai
+SATRIA AI
