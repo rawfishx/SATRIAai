@@ -17,5 +17,5 @@ pip install requests
 pip install azure-ai-inference
 pip install rich
 pip install pycryptodome
-git clone
+git clone https://github.com/rawfishx/SATRIAai/
 ```
