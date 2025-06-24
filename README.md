@@ -18,4 +18,6 @@ pip install azure-ai-inference
 pip install rich
 pip install pycryptodome
 git clone https://github.com/rawfishx/SATRIAai/
+cd SATRIAai
+bash setup.sh
 ```
